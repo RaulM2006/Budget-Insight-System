@@ -11,6 +11,11 @@ Welcome to the central documentation hub for the **Budget Insight System (BIS)**
 
 ---
 
+## 🏗️ Project Management
+* [**Development Plan**](./development_plan.md): A structured 3-iteration roadmap detailing the implementation phases from architecture foundation to advanced budgeting logic.
+
+---
+
 ## 📊 Visual Models & UML
 * [**Feature Flow Diagram**](./diagrams/flow_diagram.md): A visual representation of user navigation paths and feature interactions within the system.
 * [**Use Case Diagram**](./diagrams/use_case_diagram.md): A logical map of actors (User and File System) and their relationships to the system's functional goals.
