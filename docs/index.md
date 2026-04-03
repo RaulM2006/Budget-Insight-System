@@ -22,6 +22,9 @@ Welcome to the central documentation hub for the **Budget Insight System (BIS)**
 * [**Use Case Diagram**](./diagrams/use_case_diagram.md): A logical map of actors (User and File System) and their relationships to the system's functional goals.
 * [**StarUML Source Models**](./models/): Access to the native `.mdj` files, ensuring compliance with the **UML metamodel** requirement.
 
+## 🎨 User Interface
+* [**GUI Prototype**](./prototype/gui_prototype.md): A high-fidelity visual representation of the system's Presentation Layer.
+
 ---
 
 ## 🛠️ Technical Standards
